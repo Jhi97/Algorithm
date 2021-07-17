@@ -31,7 +31,7 @@ class Solution_hash_01 {
     }
 }
 
-public class hash_01 {
+class hash_01 {
     public static void main(String[] args) {
 
     }
