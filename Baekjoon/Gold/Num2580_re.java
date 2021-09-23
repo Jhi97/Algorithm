@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Num2580 {
+public class Num2580_re {
     public static int[][] arr = new int[9][9];
     public static StringBuilder sb = new StringBuilder();
 
